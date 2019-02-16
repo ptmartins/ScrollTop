@@ -1,7 +1,7 @@
-#h1ScrollTop
+#ScrollTop
 _Javascript plugin for implementing a simple 'Scroll to Top' button_
 
-#h3Instructions:
+###Instructions:
 
 - Include CSS:
 First, include the CSS stylesheet file into your HTML head:
