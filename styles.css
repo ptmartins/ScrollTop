@@ -1,0 +1,16 @@
+.scrollTop {
+	opacity: 0;
+	cursor: pointer;
+	color: #fff;
+	position: fixed;
+	bottom: 40px;
+	right: 40px;
+	transition: all .3s ease-in;
+	text-align: center;
+	width: 40px;
+	z-index: 9999;
+}
+
+.scrollTop.visible {
+    opacity: 1;
+}
